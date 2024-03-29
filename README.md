@@ -9,5 +9,5 @@ This website consists of seven major branches.
 
  The second branch is dedicated to sources for basic Linux scripting from providing tutorials to equipping readers with notes dedicated to important and required commands in the computational field.
 
-	The third branch is dedicated to the sources for Python scripting which helps us from writing equations to solving them, making publication-quality figures using modules such as 
+The third branch is dedicated to the sources for Python scripting which helps us from writing equations to solving them, making publication-quality figures using modules such as 
 
