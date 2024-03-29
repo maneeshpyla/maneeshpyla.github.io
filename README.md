@@ -1,7 +1,9 @@
 Hello all,
 
 Welcome to the world of computational chemistry.
-I am Maneesh Pyla, a second-year graduate student in the Prof. Spiridoula Matsika Lab at Temple University, Philadelphia. This website is designed for people who want to learn and contribute to computational and Theoretical chemistry. As we all know, this field is a culmination of many great scientists who contributed by developing mathematical methods  to make them happen in real life using computational methods and techniques.
+I am Maneesh Pyla, a second-year graduate student in the Prof. Spiridoula Matsika Lab at Temple University, Philadelphia. 
+
+This website is designed for people who want to learn and contribute to computational and Theoretical chemistry. As we all know, this field is a culmination of many great scientists who contributed by developing mathematical methods  to make them happen in real life using computational methods and techniques.
 
 This website consists of seven major branches.
  
